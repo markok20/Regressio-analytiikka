@@ -10,3 +10,9 @@ Regressioita
 4 Tässä lisään myös kolmannen selittävän muuttujan, jonka seurauksena selityskerroin paranee.
 
 5 Tämä on jatkoa aiemmalle esimerkille, jossa käytin kolmea selittävää muuttujaa. Tässä teen LSTAT-muuttujalle logaritmi-muunnoksen, jonka seurauksena selityskerroin paranee.
+
+Datoina mm.
+
+Betonin lujuus
+
+Energiatehokkuus
